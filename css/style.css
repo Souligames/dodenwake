@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Karma:wght@300&family=Mate:ital@1&family=Roboto+Slab:wght@900&display=swap');
+
+
+nav{
+    background-color:  #808080;
+}
+
+nav ul li{
+list-style: none;
+display:inline-block;
+}
+
+nav ul li a{
+color: aliceblue;
+text-decoration: none;
+padding-left: 30px;
+font-family: 'Heebo', sans-serif;
+}
+
+ div img{
+    width:100%;
+    opacity: 0.7;
+}
+
+header{
+    padding-bottom: 5px;;
+}
+p{
+    padding-left: 20px;
+    font-family: 'Karma', serif;
+}
+
+main ol{
+    padding-left:55px;
+    font-family: 'Karma', serif;
+}
+
+h1{
+    font-family: 'Heebo', sans-serif;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Heebo', sans-serif;
+}
+
+footer{
+    background-color: #595959;
+}
+footer p{
+    color:white;
+    font-family: 'Mate', serif;
+}
+main video{
+    width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.productie{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:	 #262626;
+    font-size: 200px;
+    font-family: 'Roboto Slab', serif;
+}
